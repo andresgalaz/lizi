@@ -1,0 +1,282 @@
+{
+  "ftp://ftp.liziechevarria.com:21@liziechevarria": {
+    "public_htm": {},
+    "public_html": {
+      ".htaccess": {
+        "type": "-",
+        "size": 306,
+        "lmtime": 0,
+        "modified": false
+      },
+      ".well-known": {},
+      "admin": {
+        "serverAjax": {
+          "sesion.php": {
+            "type": "-",
+            "size": 912,
+            "lmtime": 1573075673565,
+            "modified": false
+          }
+        }
+      },
+      "cgi-bin": {},
+      "conexion.php": {
+        "type": "-",
+        "size": 10764,
+        "lmtime": 1573075573897,
+        "modified": false
+      },
+      "liziechevarria.zip": {
+        "type": "-",
+        "size": 7220955,
+        "lmtime": 0,
+        "modified": false
+      },
+      "version04": {
+        "basket.php": {
+          "type": "-",
+          "size": 6641,
+          "lmtime": 0,
+          "modified": false
+        },
+        "category-full.php": {
+          "type": "-",
+          "size": 7860,
+          "lmtime": 0,
+          "modified": false
+        },
+        "checkout1.php": {
+          "type": "-",
+          "size": 8024,
+          "lmtime": 0,
+          "modified": false
+        },
+        "checkout2.php": {
+          "type": "-",
+          "size": 4506,
+          "lmtime": 0,
+          "modified": false
+        },
+        "checkout3.php": {
+          "type": "-",
+          "size": 4398,
+          "lmtime": 0,
+          "modified": false
+        },
+        "checkout4.php": {
+          "type": "-",
+          "size": 5090,
+          "lmtime": 0,
+          "modified": false
+        },
+        "contact.php": {
+          "type": "-",
+          "size": 4750,
+          "lmtime": 0,
+          "modified": false
+        },
+        "css": {},
+        "degustaciones.php": {
+          "type": "-",
+          "size": 8975,
+          "lmtime": 0,
+          "modified": false
+        },
+        "detail.php": {
+          "type": "-",
+          "size": 638,
+          "lmtime": 0,
+          "modified": false
+        },
+        "error_log": {
+          "type": "-",
+          "size": 700,
+          "lmtime": 0,
+          "modified": false
+        },
+        "favicon.png": {
+          "type": "-",
+          "size": 2779,
+          "lmtime": 0,
+          "modified": false
+        },
+        "img": {},
+        "include": {
+          "barraSup.php": {
+            "type": "-",
+            "size": 2962,
+            "lmtime": 0,
+            "modified": false
+          },
+          "blog.php": {
+            "type": "-",
+            "size": 2941,
+            "lmtime": 0,
+            "modified": false
+          },
+          "cargaCompra.php": {
+            "type": "-",
+            "size": 4350,
+            "lmtime": 0,
+            "modified": false
+          },
+          "carruselAlt.php": {
+            "type": "-",
+            "size": 621,
+            "lmtime": 0,
+            "modified": false
+          },
+          "carruselPpal.php": {
+            "type": "-",
+            "size": 569,
+            "lmtime": 0,
+            "modified": false
+          },
+          "categorias.php": {
+            "type": "-",
+            "size": 4436,
+            "lmtime": 0,
+            "modified": false
+          },
+          "composer.json": {
+            "type": "-",
+            "size": 63,
+            "lmtime": 0,
+            "modified": false
+          },
+          "composer.lock": {
+            "type": "-",
+            "size": 1735,
+            "lmtime": 0,
+            "modified": false
+          },
+          "detProducto.php": {
+            "type": "-",
+            "size": 5361,
+            "lmtime": 0,
+            "modified": false
+          },
+          "footer.php": {
+            "type": "-",
+            "size": 4892,
+            "lmtime": 0,
+            "modified": false
+          },
+          "head.php": {
+            "type": "-",
+            "size": 1775,
+            "lmtime": 1573075581893,
+            "modified": false
+          },
+          "lisProductoHor.php": {
+            "type": "-",
+            "size": 2165,
+            "lmtime": 0,
+            "modified": false
+          },
+          "lisProductoHorDet.php": {
+            "type": "-",
+            "size": 2363,
+            "lmtime": 0,
+            "modified": false
+          },
+          "lisProductoHorSmall.php": {
+            "type": "-",
+            "size": 2026,
+            "lmtime": 0,
+            "modified": false
+          },
+          "login-form.php": {
+            "type": "-",
+            "size": 1581,
+            "lmtime": 0,
+            "modified": false
+          },
+          "menu.php": {
+            "type": "-",
+            "size": 5646,
+            "lmtime": 0,
+            "modified": false
+          },
+          "menuPages.php": {
+            "type": "-",
+            "size": 749,
+            "lmtime": 0,
+            "modified": false
+          },
+          "paginacion.php": {
+            "type": "-",
+            "size": 1700,
+            "lmtime": 0,
+            "modified": false
+          },
+          "resumenCompra.php": {
+            "type": "-",
+            "size": 728,
+            "lmtime": 0,
+            "modified": false
+          },
+          "todoPagoCredenciales.php": {
+            "type": "-",
+            "size": 151,
+            "lmtime": 0,
+            "modified": false
+          },
+          "vendor": {}
+        },
+        "index.php": {
+          "type": "-",
+          "size": 1125,
+          "lmtime": 0,
+          "modified": false
+        },
+        "js": {},
+        "legales.php": {
+          "type": "-",
+          "size": 13071,
+          "lmtime": 0,
+          "modified": false
+        },
+        "mensaje.php": {
+          "type": "-",
+          "size": 1836,
+          "lmtime": 0,
+          "modified": false
+        },
+        "nosotros.php": {
+          "type": "-",
+          "size": 2371,
+          "lmtime": 0,
+          "modified": false
+        },
+        "register.php": {
+          "type": "-",
+          "size": 3407,
+          "lmtime": 0,
+          "modified": false
+        },
+        "serverAjax": {},
+        "todoPagoError.php": {
+          "type": "-",
+          "size": 1549,
+          "lmtime": 0,
+          "modified": false
+        },
+        "todoPagoInicio.php": {
+          "type": "-",
+          "size": 6133,
+          "lmtime": 0,
+          "modified": false
+        },
+        "todoPagoOk.php": {
+          "type": "-",
+          "size": 1983,
+          "lmtime": 0,
+          "modified": false
+        },
+        "vendor": {}
+      }
+    }
+  },
+  "$version": 1
+}
