@@ -7,9 +7,7 @@
     <div class="flip-container">
         <div class="flipper">
             <div class="front"><a href="<?=$linkDetalle?>"><img src="../<?=$imagenFront?>" alt="" class="img-fluid"></a></div>
-            <!-- Se repite el FRONT para que no cambie la imagen, también se modificó la clase flip-container en, style.default.css -->
-            <div class="back"><a href="<?=$linkDetalle?>"><img src="../<?=$imagenFront?>" alt="" class="img-fluid"></a></div>
-            <!-- <div class="back"><a href="<?=$linkDetalle?>"><img src="../<?=$imagenBack?>" alt="" class="img-fluid"></a></div> -->
+            <div class="back"><a href="<?=$linkDetalle?>"><img src="../<?=$imagenBack?>" alt="" class="img-fluid"></a></div>
         </div>
     </div>
     <a href="<?=$linkDetalle?>" class="invisible"><img src="../<?=$imagenFront?>" alt="" class="img-fluid"></a>

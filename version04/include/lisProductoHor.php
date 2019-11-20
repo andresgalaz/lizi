@@ -20,6 +20,9 @@ if ($cOrden == 'Menor Precio') {
     $cSql .= " ORDER by rand()";
 }
 $cSql .= " limit 12";
+
+error_log($cSql);
+
 // Ejecuta
 if (!($result = $id_cnx->query($cSql))) {
     echo '<br/><br/><br/><br/>' . 'Invalid query: ' . mysqli_error($id_cnx) . '<br/><br/><br/><br/>';

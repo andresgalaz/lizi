@@ -4,18 +4,93 @@
     "public_html": {
       ".htaccess": {
         "type": "-",
-        "size": 1491,
+        "size": 1489,
         "lmtime": 0,
         "modified": true
       },
       ".user.ini": {
         "type": "-",
-        "size": 582,
+        "size": 587,
         "lmtime": 0,
-        "modified": false
+        "modified": true
       },
       ".well-known": {},
       "admin": {
+        "admin.php": {
+          "type": "-",
+          "size": 522,
+          "lmtime": 0,
+          "modified": false
+        },
+        "anexo01.js": {
+          "type": "-",
+          "size": 2843,
+          "lmtime": 0,
+          "modified": false
+        },
+        "anexo01.php": {
+          "type": "-",
+          "size": 768,
+          "lmtime": 0,
+          "modified": false
+        },
+        "anexo01_frm.php": {
+          "type": "-",
+          "size": 1592,
+          "lmtime": 0,
+          "modified": false
+        },
+        "anexo01_tabla.php": {
+          "type": "-",
+          "size": 637,
+          "lmtime": 0,
+          "modified": false
+        },
+        "comercio-48.png": {
+          "type": "-",
+          "size": 958,
+          "lmtime": 0,
+          "modified": false
+        },
+        "css": {},
+        "include": {},
+        "index.php": {
+          "type": "-",
+          "size": 51,
+          "lmtime": 0,
+          "modified": false
+        },
+        "js": {},
+        "principal.js": {
+          "type": "-",
+          "size": 5143,
+          "lmtime": 1574281840033,
+          "modified": false
+        },
+        "principal.php": {
+          "type": "-",
+          "size": 745,
+          "lmtime": 0,
+          "modified": false
+        },
+        "principal_frm.php": {
+          "type": "-",
+          "size": 5405,
+          "lmtime": 0,
+          "modified": false
+        },
+        "principal_imagen.php": {
+          "type": "-",
+          "size": 5244,
+          "lmtime": 0,
+          "modified": false
+        },
+        "principal_tabla.php": {
+          "type": "-",
+          "size": 1418,
+          "lmtime": 0,
+          "modified": false
+        },
         "serverAjax": {
           "anexo01.php": {
             "type": "-",
@@ -37,14 +112,14 @@
           },
           "error_log": {
             "type": "-",
-            "size": 1374,
+            "size": 501,
             "lmtime": 0,
-            "modified": false
+            "modified": true
           },
           "imagen.php": {
             "type": "-",
-            "size": 465,
-            "lmtime": 0,
+            "size": 537,
+            "lmtime": 1574279607349,
             "modified": false
           },
           "principal.php": {
@@ -68,27 +143,51 @@
         "modified": false
       },
       "fileupdate": {
+        "UploadHandler.php": {
+          "type": "-",
+          "size": 54783,
+          "lmtime": 0,
+          "modified": false
+        },
         "files": {
-          "5d260ba157309 (1).jpg": {
+          "00586_pile_1680x1050-2017-09-05-1303.jpg": {
             "type": "-",
-            "size": 327825,
-            "lmtime": 1574277038073,
+            "size": 116769,
+            "lmtime": 1574282392563,
             "modified": false
           },
-          "5d260ba157309.jpg": {
+          "luminalstasis-2019-05-28-2232.jpg": {
             "type": "-",
-            "size": 327825,
-            "lmtime": 1574277304040,
-            "modified": false
+            "size": 86,
+            "lmtime": 1574282599727,
+            "modified": true
           },
           "thumbnail": {
-            "5d260ba157309.jpg": {
+            "solar_system_to_scale-2018-08-14-0011.jpg": {
               "type": "-",
-              "size": 1886,
-              "lmtime": 1574277304100,
+              "size": 1454,
+              "lmtime": 1574278739422,
+              "modified": false
+            },
+            "e2fa9d19e8ab2b25f6017b9237aba2bbb6f4c9b9.jpg": {
+              "type": "-",
+              "size": 1328,
+              "lmtime": 1574278775251,
               "modified": false
             }
+          },
+          "_m_._e__h__7539-2019-05-28-2256.jpg": {
+            "type": "-",
+            "size": 397339,
+            "lmtime": 1574284080178,
+            "modified": false
           }
+        },
+        "fileupload.php": {
+          "type": "-",
+          "size": 350,
+          "lmtime": 0,
+          "modified": false
         }
       },
       "liziechevarria.zip": {
@@ -99,9 +198,9 @@
       },
       "php.ini": {
         "type": "-",
-        "size": 582,
+        "size": 581,
         "lmtime": 0,
-        "modified": false
+        "modified": true
       },
       "testMail.php": {
         "type": "-",
@@ -109,7 +208,106 @@
         "lmtime": 0,
         "modified": false
       },
-      "upload": {},
+      "upload": {
+        "principal": {
+          "00001_0.jpg": {
+            "type": "-",
+            "size": 419250,
+            "lmtime": 0,
+            "modified": false
+          },
+          "00001_1.jpg": {
+            "type": "-",
+            "size": 116769,
+            "lmtime": 1574282392563,
+            "modified": false
+          },
+          "00001_2.jpg": {
+            "type": "-",
+            "size": 196145,
+            "lmtime": 1574282392623,
+            "modified": false
+          },
+          "00001_3.jpg": {
+            "type": "-",
+            "size": 277781,
+            "lmtime": 1574282392627,
+            "modified": false
+          },
+          "00002_0.jpg": {
+            "type": "-",
+            "size": 418553,
+            "lmtime": 1574282599803,
+            "modified": false
+          },
+          "00002_1.jpg": {
+            "type": "-",
+            "size": 324650,
+            "lmtime": 1574282599743,
+            "modified": false
+          },
+          "00002_2.jpg": {
+            "type": "-",
+            "size": 298839,
+            "lmtime": 1574282599727,
+            "modified": false
+          },
+          "00002_3.jpg": {
+            "type": "-",
+            "size": 397339,
+            "lmtime": 1574284080178,
+            "modified": false
+          },
+          "00082_0.jpg": {
+            "type": "-",
+            "size": 419250,
+            "lmtime": 0,
+            "modified": false
+          },
+          "00082_1.jpg": {
+            "type": "-",
+            "size": 100178,
+            "lmtime": 0,
+            "modified": false
+          },
+          "00082_3.jpg": {
+            "type": "-",
+            "size": 795938,
+            "lmtime": 0,
+            "modified": false
+          },
+          "00083_0.png": {
+            "type": "-",
+            "size": 1503146,
+            "lmtime": 0,
+            "modified": false
+          },
+          "00083_1.jpg": {
+            "type": "-",
+            "size": 116769,
+            "lmtime": 0,
+            "modified": false
+          },
+          "00083_2.jpg": {
+            "type": "-",
+            "size": 277781,
+            "lmtime": 0,
+            "modified": false
+          },
+          "00083_3.jpg": {
+            "type": "-",
+            "size": 515181,
+            "lmtime": 0,
+            "modified": false
+          },
+          "00002_4.jpg": {
+            "type": "-",
+            "size": 100178,
+            "lmtime": 1574284080294,
+            "modified": false
+          }
+        }
+      },
       "version04": {
         "basket.php": {
           "type": "-",
@@ -163,13 +361,7 @@
         "detail.php": {
           "type": "-",
           "size": 638,
-          "lmtime": 0,
-          "modified": false
-        },
-        "error_log": {
-          "type": "-",
-          "size": 700,
-          "lmtime": 0,
+          "lmtime": 1574281995928,
           "modified": false
         },
         "favicon.png": {
@@ -230,8 +422,8 @@
           },
           "detProducto.php": {
             "type": "-",
-            "size": 5361,
-            "lmtime": 0,
+            "size": 5733,
+            "lmtime": 1574283876411,
             "modified": false
           },
           "footer.php": {
@@ -248,14 +440,14 @@
           },
           "lisProductoHor.php": {
             "type": "-",
-            "size": 2165,
-            "lmtime": 0,
+            "size": 2185,
+            "lmtime": 1574282765418,
             "modified": false
           },
           "lisProductoHorDet.php": {
             "type": "-",
-            "size": 2363,
-            "lmtime": 0,
+            "size": 2090,
+            "lmtime": 1574281622450,
             "modified": false
           },
           "lisProductoHorSmall.php": {

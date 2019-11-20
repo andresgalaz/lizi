@@ -98,7 +98,9 @@ var oPrincipal = {
                         ' style="background-color:#303030; padding: 10px;">' +
                         cNombre + '<br/>' +
                         '  <div style="background-color:#363636; padding:10px;" class="img-thumbnail">' +
-                        '    <img src="../' + resp[i] + '?x=' + tsImg + '" class="img-thumbnail"/>' +
+                        // se agregó ?x=<timestamp-image> por el problema de cache con chrome
+                        // '    <img src="../' + resp[i] + '?x=' + tsImg + '" class="img-thumbnail"/>' +
+                        '    <img src="../' + resp[i] + '" class="img-thumbnail"/>' +
                         '  </div>' +
                         '  <input type="button" class="btn btn-primary" value="Borrar"' +
                         '         onclick="oPrincipal.borrarImagen(this)"/>' +
