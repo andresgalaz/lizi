@@ -4,34 +4,112 @@
     "public_html": {
       ".htaccess": {
         "type": "-",
-        "size": 306,
+        "size": 1491,
+        "lmtime": 0,
+        "modified": true
+      },
+      ".user.ini": {
+        "type": "-",
+        "size": 582,
         "lmtime": 0,
         "modified": false
       },
       ".well-known": {},
       "admin": {
         "serverAjax": {
+          "anexo01.php": {
+            "type": "-",
+            "size": 2345,
+            "lmtime": 0,
+            "modified": false
+          },
+          "db.php": {
+            "type": "-",
+            "size": 265,
+            "lmtime": 0,
+            "modified": false
+          },
+          "enviaMail.php": {
+            "type": "-",
+            "size": 1132,
+            "lmtime": 0,
+            "modified": false
+          },
+          "error_log": {
+            "type": "-",
+            "size": 1374,
+            "lmtime": 0,
+            "modified": false
+          },
+          "imagen.php": {
+            "type": "-",
+            "size": 465,
+            "lmtime": 0,
+            "modified": false
+          },
+          "principal.php": {
+            "type": "-",
+            "size": 3251,
+            "lmtime": 0,
+            "modified": false
+          },
           "sesion.php": {
             "type": "-",
             "size": 912,
-            "lmtime": 1573075673565,
+            "lmtime": 1574277169516,
             "modified": false
           }
         }
       },
-      "cgi-bin": {},
       "conexion.php": {
         "type": "-",
         "size": 10764,
         "lmtime": 1573075573897,
         "modified": false
       },
+      "fileupdate": {
+        "files": {
+          "5d260ba157309 (1).jpg": {
+            "type": "-",
+            "size": 327825,
+            "lmtime": 1574277038073,
+            "modified": false
+          },
+          "5d260ba157309.jpg": {
+            "type": "-",
+            "size": 327825,
+            "lmtime": 1574277304040,
+            "modified": false
+          },
+          "thumbnail": {
+            "5d260ba157309.jpg": {
+              "type": "-",
+              "size": 1886,
+              "lmtime": 1574277304100,
+              "modified": false
+            }
+          }
+        }
+      },
       "liziechevarria.zip": {
         "type": "-",
-        "size": 7220955,
+        "size": 3139996,
+        "lmtime": 0,
+        "modified": true
+      },
+      "php.ini": {
+        "type": "-",
+        "size": 582,
         "lmtime": 0,
         "modified": false
       },
+      "testMail.php": {
+        "type": "-",
+        "size": 535,
+        "lmtime": 0,
+        "modified": false
+      },
+      "upload": {},
       "version04": {
         "basket.php": {
           "type": "-",

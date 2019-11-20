@@ -1,10 +1,10 @@
 <?php
-include '../conexion.php';
-$GL_DIR = '../../';
-
 // Inicia sesion
 session_set_cookie_params(3600); // Set session cookie duration to 1 hour
 // session_start(); ahora se inicia sesión en ../conexion.php
+include '../conexion.php';
+$GL_DIR = '../../';
+
 $usuario=null;
 if ( isset($_SESSION['usuario'])){
 	$usuario=$_SESSION['usuario'];
