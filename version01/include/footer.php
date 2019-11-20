@@ -55,12 +55,12 @@
         <hr>
         <h4 class="mb-3">Seguínos en nuestras redes sociales.</h4>
         <p class="social">
-            <a href="https://www.facebook.com/lacavadebastiano/" class="facebook external"><i class="fa fa-facebook"></i></a>
-            <a href="https://www.instagram.com/lacavadebastiano/?hl=es-la" class="instagram external"><i class="fa fa-instagram"></i></a>
+            <a href="https://www.facebook.com/liziechevarria/" class="facebook external"><i class="fa fa-facebook"></i></a>
+            <a href="https://www.instagram.com/liziechevarria/?hl=es-la" class="instagram external"><i class="fa fa-instagram"></i></a>
         </p>
         </div>
         <a href="http://qr.afip.gob.ar/?qr=PJMDpHS4OmQMIc-fYLNSRg,," target="_F960AFIPInfo"><img src="http://www.afip.gob.ar/images/f960/DATAWEB.jpg" border="0"></a>
-        <!-- /.col-lg-3-->
+        <!-- </.col-lg-3-->
     </div>
     <!-- /.row-->
     </div>

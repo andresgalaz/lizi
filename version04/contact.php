@@ -55,7 +55,7 @@
                     <p class="text-muted">También nos podés escribir un email.</p>
                     <!-- <ul>
                       <li> -->
-                      <strong><a href="mailto:">info@lacavadebastiano.com.ar</a></strong>
+                      <strong><a href="mailto:">info@liziechevarria.com</a></strong>
                       <!-- </li>
                       <li><strong><a href="#">Ticketio</a></strong> - our ticketing support platform</li> 
                     </ul> -->

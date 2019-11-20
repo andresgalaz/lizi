@@ -343,5 +343,5 @@ function utf8mail($destino, $asunto, $body, $from_name = "compustrom", $from_a =
     $headers .= "Reply-To: $reply\r\n";
     $headers .= "X-Mailer: PHP/" . phpversion();
 	$mailSent = mail($destino, "=?utf-8?b?" . base64_encode($asunto) . "?=", $body, $headers);
-	$mailSent = mail('andygalazv@hotmail.com', normaliza("$asunto"), $body, 'from: lacavadebastiano@xum2.ibumu.com');
+	$mailSent = mail('andygalazv@hotmail.com', normaliza("$asunto"), $body, 'from: info@liziechevarria.com');
 }

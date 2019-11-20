@@ -9,10 +9,10 @@ $mensaje =
 'nombre  : ' . getPost('firstname') . ' ' . getPost('lastname') . "\n" .
 'mensaje : ' . "\n" . getPost('message');
 
-utf8mail('lacavadebastiano@gmail.com'
+utf8mail('claudia.pierri@liziechevarria.com'
     , getPost('subject', 'Sin Asunto')
     , $mensaje
-    , 'Servidor Web', 'lacavadebastiano@gmail.com', 'no-responder@lacavadebastiano.com.ar');
+    , 'Servidor Web', 'info@liziechevarria.com', 'no-responder@liziechevarria.com');
 
 echo json_encode(array('success' => true, 'mensaje' => 'Notificación enviada'));
 ?>

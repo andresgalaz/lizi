@@ -22,11 +22,11 @@
             <div class="col-lg-4">
                 <h4 class="mb-3">Siguenos en nuestras redes sociales.</h4>
                 <p class="social">
-                    <a href="https://www.facebook.com/lacavadebastiano/" class="facebook external"><i class="fa fa-facebook"></i></a>
-                    <a href="https://m.me/lacavadebastiano/" class="facebook external"><i class="fab fa-facebook-messenger"></i>
+                    <a href="https://www.facebook.com/liziechevarria/" class="facebook external"><i class="fa fa-facebook"></i></a>
+                    <a href="https://m.me/liziechevarria/" class="facebook external"><i class="fab fa-facebook-messenger"></i>
                         <img src='img/icons8-facebook-messenger-50.png' style='width: 70%; padding-top: 4px; vertical-align: top !important;'>
                     </a>
-                    <a href="https://www.instagram.com/lacavadebastiano/?hl=es-la" class="instagram external"><i class="fa fa-instagram"></i></a>
+                    <a href="https://www.instagram.com/liziechevarria/?hl=es-la" class="instagram external"><i class="fa fa-instagram"></i></a>
                 </p>
 
                 <h4 class="mb-3"> Mas Visitados </h4>

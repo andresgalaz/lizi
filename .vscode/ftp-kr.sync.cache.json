@@ -4,13 +4,13 @@
     "public_html": {
       ".htaccess": {
         "type": "-",
-        "size": 1489,
+        "size": 1491,
         "lmtime": 0,
         "modified": true
       },
       ".user.ini": {
         "type": "-",
-        "size": 587,
+        "size": 588,
         "lmtime": 0,
         "modified": true
       },
@@ -138,8 +138,8 @@
       },
       "conexion.php": {
         "type": "-",
-        "size": 10764,
-        "lmtime": 1573075573897,
+        "size": 10756,
+        "lmtime": 1574285007306,
         "modified": false
       },
       "fileupdate": {
@@ -198,7 +198,7 @@
       },
       "php.ini": {
         "type": "-",
-        "size": 581,
+        "size": 582,
         "lmtime": 0,
         "modified": true
       },
@@ -308,6 +308,16 @@
           }
         }
       },
+      "version01": {
+        "include": {
+          "footer.php": {
+            "type": "-",
+            "size": 4034,
+            "lmtime": 1574285245802,
+            "modified": false
+          }
+        }
+      },
       "version04": {
         "basket.php": {
           "type": "-",
@@ -347,8 +357,8 @@
         },
         "contact.php": {
           "type": "-",
-          "size": 4750,
-          "lmtime": 0,
+          "size": 4745,
+          "lmtime": 1574285311485,
           "modified": false
         },
         "css": {},
@@ -362,6 +372,12 @@
           "type": "-",
           "size": 638,
           "lmtime": 1574281995928,
+          "modified": false
+        },
+        "error_log": {
+          "type": "-",
+          "size": 984,
+          "lmtime": 0,
           "modified": false
         },
         "favicon.png": {
@@ -428,8 +444,8 @@
           },
           "footer.php": {
             "type": "-",
-            "size": 4892,
-            "lmtime": 0,
+            "size": 4886,
+            "lmtime": 1574285331269,
             "modified": false
           },
           "head.php": {
@@ -525,7 +541,38 @@
           "lmtime": 0,
           "modified": false
         },
-        "serverAjax": {},
+        "serverAjax": {
+          "clienteGraba.php": {
+            "type": "-",
+            "size": 840,
+            "lmtime": 0,
+            "modified": false
+          },
+          "clienteLogin.php": {
+            "type": "-",
+            "size": 931,
+            "lmtime": 0,
+            "modified": false
+          },
+          "enviaCorreo.php": {
+            "type": "-",
+            "size": 540,
+            "lmtime": 1574285391033,
+            "modified": false
+          },
+          "enviaSuscripcion.php": {
+            "type": "-",
+            "size": 398,
+            "lmtime": 1574285437085,
+            "modified": false
+          },
+          "grabaCompra.php": {
+            "type": "-",
+            "size": 1471,
+            "lmtime": 0,
+            "modified": false
+          }
+        },
         "todoPagoError.php": {
           "type": "-",
           "size": 1549,
