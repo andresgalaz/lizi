@@ -95,8 +95,8 @@
 				</div>
 				<div class='col-lg-1 col-xs-2'>
 					<div class="btn-group btn-group-toggle" data-toggle="buttons">
-						<label class='btn btn-default atributo' >Mas vendido
-							<input id='atributo' class='form-control' type='checkbox' value='MasVendido' autocomplete='off'/>
+						<label class='btn btn-default atributo' >Privada
+							<input id='atributo' class='form-control' type='checkbox' value='Privada' autocomplete='off'/>
 						</label>
 					</div>
 				</div>
