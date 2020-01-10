@@ -57,6 +57,7 @@ $rsCompra->free_result();
                                         <?php } ?>
                                     </ul>
                                 </div>
+								<!--
                                 <div class="col-md-6 col-lg-3">
                                     <h5>Otros</h5>
                                     <ul class="list-unstyled mb-3">
@@ -64,11 +65,11 @@ $rsCompra->free_result();
                                         <li class="nav-item"><a href="#" class="nav-link">Varios</a></li>
                                     </ul>
                                 </div>
+								-->
                             </div>
                         </li>
                     </ul>
                 </li>
-                <li class="nav-item menu-large"><a href="degustaciones.php" class="nav-link">Degustaciones<b class="caret"></b></a></li>
                 <li class="nav-item menu-large"><a href="legales.php" class="nav-link">Términos y Condiciones<b class="caret"></b></a></li>
                 <li class="nav-item menu-large"><a href="contact.php" class="nav-link">Contacto<b class="caret"></b></a></li>
             </ul>
